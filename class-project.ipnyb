@@ -1,0 +1,237 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Okhaifo Ojeikere"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### 21120612566"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### okhaifo.ojeikere@pau.edu.ng"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Project 1"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "![](images/Picture1.png)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "###### INPUT number\n",
+    "###### LET number = a\n",
+    "###### COMPUTE  a-17\n",
+    "###### IF (a>17)\n",
+    "###### COMPUTE n=(a-17)*2\n",
+    "###### PRINT n\n",
+    "\n",
+    "###### INPUT number\n",
+    "###### LET number = b\n",
+    "###### COMPUTE b-17\n",
+    "###### IF (b<17)\n",
+    "###### COMPUTE m=|b-17|\n",
+    "###### PRINT m"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# code for project 1"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Project 2"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "![](images/Picture2.png)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "###### INPUT number\n",
+    "###### LET number = a\n",
+    "###### INPUT number\n",
+    "###### LET number = b\n",
+    "###### INPUT number\n",
+    "###### LET number = c\n",
+    "###### COMPUTE n=(a+b+c)\n",
+    "###### PRINT n\n",
+    "###### IF (a=b=c)\n",
+    "###### COMPUTE m=(a+b+c)*3\n",
+    "###### PRINT m"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# code for project 2"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Project 3"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "![](images/Picture3.png)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "###### INPUT number\n",
+    "###### LET number = a\n",
+    "###### INPUT number\n",
+    "###### LET number = b\n",
+    "###### IF (a=b)\n",
+    "###### PRINT \"True\"\n",
+    "###### IF (a+b=5)\n",
+    "###### PRINT \"True\"\n",
+    "###### IF (a-b=5)\n",
+    "###### PRINT \"True\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# code for project 3"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Project 4"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "![](images/Picture4.png)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "###### INPUT number\n",
+    "###### LET number = a\n",
+    "###### INPUT number\n",
+    "###### LET number = b\n",
+    "###### INPUT number\n",
+    "###### LET number = c\n",
+    "###### \n",
+    "######"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# code for project 4"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Project 5"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "![](images/Picture5.png)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "###### INPUT number\n",
+    "###### LET number=a\n",
+    "###### COMPUTE  n=(((a-1)^3)+ ((a-2)^3)+ ((a-3)^3)+... ((0)^3))\n",
+    "###### PRINT n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# code for project 5"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
